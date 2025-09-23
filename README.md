@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![ArXiv](https://img.shields.io/badge/arXiv-2502.06472-b31b1b.svg)](https://arxiv.org/abs/2502.06472)
-[![PyPI version](https://badge.fury.io/py/karma-nlp.svg)](https://badge.fury.io/py/karma-nlp)
 
 KARMA is a cutting-edge natural language processing framework that leverages a coordinated multi-agent system to automatically extract, validate, and integrate scientific knowledge into structured knowledge graphs. By employing specialized Large Language Model (LLM) agents, KARMA ensures high-quality knowledge extraction while maintaining semantic consistency and domain expertise.
 
