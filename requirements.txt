@@ -1,0 +1,10 @@
+# Core dependencies
+openai>=1.0.0
+PyPDF2>=3.0.0
+typing-extensions>=4.0.0
+
+# Optional dependencies for enhanced functionality
+# spacy>=3.4.0
+# networkx>=2.8.0
+# matplotlib>=3.5.0
+# pandas>=1.4.0
